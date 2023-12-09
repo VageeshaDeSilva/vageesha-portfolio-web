@@ -27,9 +27,9 @@
 
 //  var contactsSection = document.getElementById('contactsSection'); 
 
-//  mainBtn.addEventListener("click", () => { 
-//     // document.body.scrollTo('contacts');
-//     // document.documentElement.scrollTo('contacts');
-// });
+ mainBtn.addEventListener("click", () => { 
+    // document.body.scrollTo('contacts');
+    // document.documentElement.scrollTo('contacts');
+});
 
  
